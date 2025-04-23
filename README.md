@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nvdp-prasanna
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning React js
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Smile as always
 
